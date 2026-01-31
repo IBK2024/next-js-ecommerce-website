@@ -5,7 +5,7 @@
 /.next/
 
 # Local env files
-.env
+.env*
 
 # Typescript
 next-env.d.ts
