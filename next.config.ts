@@ -1,8 +1,8 @@
 import type { NextConfig } from "next";
 
-// !Next.js configuration with React Compiler enabled
+// Next.js configuration
 const nextConfig: NextConfig = {
-  reactCompiler: true,
+  reactCompiler: true, // *Enable React compiler
 };
 
 export default nextConfig;

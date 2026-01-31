@@ -1,14 +1,14 @@
-# !Dependencies
+# Dependencies
 /node_modules
 
-# !Next.js
+# Next.js
 /.next/
 
-# !Local env files
+# Local env files
 .env
 
-# !Typescript
+# Typescript
 next-env.d.ts
 
-# !IDEs and editors
+# IDEs and editors
 /.vscode/
