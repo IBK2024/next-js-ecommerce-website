@@ -9,7 +9,8 @@
     "build": "next build",
     "start": "next start",
     "lint": "biome check",
-    "format": "biome format --write"
+    "format": "biome format --write",
+    "postinstall": "prisma generate"
   },
   "engineStrict": true,
   "engines": {
