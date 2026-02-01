@@ -37,6 +37,8 @@ It should return the node version if node is installed. The project uses version
   ```bash
   pnpm install
   ```
+- Then you will need to create a new file called `.env` and copy into it the env variables in the `.env.example` file.
+- Replace the copied env variables with the actual ones that you will use.
 
 ### Implement your changes
 Some commands to know. Make sure to activate the virtual environment first:
